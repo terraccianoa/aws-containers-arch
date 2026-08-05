@@ -1,4 +1,4 @@
-# AWS contaniners arch
+# AWS contaniner arch
 
 Spring Boot REST API deployed on AWS using a cloud-native architecture.
 
