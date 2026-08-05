@@ -1,4 +1,4 @@
-# AWS Product API
+# AWS contaniners arch
 
 Spring Boot REST API deployed on AWS using a cloud-native architecture.
 
