@@ -12,9 +12,9 @@ Spring Boot REST API deployed on AWS using a cloud-native architecture.
 
 POST /api/v1/product --> api that saves a single product into DB postgreSQL
 
-GET /api/v1/product --> api that retrives a product by id from DB table
+GET /api/v1/product --> api that retrives all product from DB table
 
-GET /api/v1/product/{id} --> api that retrives all product from DB table
+GET /api/v1/product/{id} --> api that retrives a product by id from DB table
 
 ## Stack
 
