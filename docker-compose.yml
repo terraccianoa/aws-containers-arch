@@ -1,3 +1,6 @@
+# trattandosi di un repository di esempio lascio pwd e utenza in chairo permettono a chiunque di avviare il progetto con comando "docker compose up"
+# In un contesto enterprise utilizzerei un file .env escluso dal versionamento oppure un sistema di secret management come AWS Secrets Manager, 
+# integrato con ECS/Fargate per evitare la presenza di credenziali nel repository.
 services:
 
   postgres:
